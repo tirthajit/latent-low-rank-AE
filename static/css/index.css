@@ -49,7 +49,17 @@ body {
 
 .publication-title {
     font-family: 'Google Sans', sans-serif;
+    letter-spacing: 2px; /* Increases space between letters */
+    font-size: 1.8rem; /* Adjust font size as needed */
+    word-spacing: 2px; /* Increases space between words */
+    text-align: center; /* Keeps the title centered */
 }
+
+/* If you need to adjust the container width */
+.container.is-max-desktop {
+    max-width: 90%; /* Increase as needed, 90% is just an example */
+}
+
 
 .publication-authors {
     font-family: 'Google Sans', sans-serif;
