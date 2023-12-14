@@ -30,7 +30,7 @@ body {
 
 .publication-title {
     letter-spacing: 2px; /* Increases space between letters */
-    font-size: 1.8rem; /* Adjust font size as needed */
+    font-size: 1.6rem; /* Adjust font size as needed */
     word-spacing: 2px; /* Increases space between words */
     text-align: center; /* Keeps the title centered */
 }
