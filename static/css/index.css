@@ -30,7 +30,7 @@ body {
 
 .publication-title {
     letter-spacing: 2px; /* Increases space between letters */
-    font-size: 1.2rem; /* Adjust font size as needed */
+    font-size: 1.8rem; /* Adjust font size as needed */
     word-spacing: 2px; /* Increases space between words */
     text-align: center; /* Keeps the title centered */
 }
@@ -58,7 +58,6 @@ body {
 
 .publication-title {
     font-family: 'Google Sans', sans-serif;
-    font-size: 1.5rem; /* Adjust font size as needed */
 }
 
 .publication-authors {
